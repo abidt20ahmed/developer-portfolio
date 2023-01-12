@@ -191,7 +191,6 @@ li {
 .footer {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   background-color: #151414;
   padding: 0 380px;
 }
@@ -224,6 +223,7 @@ li {
   color: #ffffff;
   width: 123px;
   height: 29px;
+  padding-top: 130px;
   margin-bottom: 30px;
 }
 .mail {
